@@ -1,0 +1,16 @@
+.statistics-container {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+
+.stat-box {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    width: 30%;
+}
+
+.stat-box h3 {
+    margin: 40px
+}
